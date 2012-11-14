@@ -9,5 +9,9 @@ public class SkillSet1 {
 		System.out.println("Skill.set ..");
 
 	}
+	
+	public static void sop(){
+		System.out.println("Helo");
+	}
 
 }
