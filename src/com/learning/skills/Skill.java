@@ -14,4 +14,7 @@ public class Skill {
 		System.out.println("Helo");
 	}
 
+	public static void callsop(){
+		
+	}
 }
