@@ -9,5 +9,9 @@ public class GitPlay {
 		// TODO Auto-generated method stub
 
 	}
+	
+public static void newyear(){
+		
+	}
 
 }

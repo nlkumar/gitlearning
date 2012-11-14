@@ -17,4 +17,8 @@ public class SkillSet1 {
 	public static void christmas(){
 		
 	}
+	
+public static void newyear(){
+		
+	}
 }
