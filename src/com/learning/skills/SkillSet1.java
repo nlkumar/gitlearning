@@ -13,5 +13,8 @@ public class SkillSet1 {
 	public static void sop(){
 		System.out.println("Helo");
 	}
-
+	
+	public static void christmas(){
+		
+	}
 }

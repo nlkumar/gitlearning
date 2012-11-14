@@ -9,9 +9,12 @@ public class Skill {
 		// TODO Auto-generated method stub
 
 	}
-	
-	public static void sop(){
+
+	public static void sop() {
 		System.out.println("Helo");
 	}
 
+	public static void christmas() {
+
+	}
 }
