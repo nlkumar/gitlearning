@@ -14,4 +14,8 @@ public static void newyear(){
 		
 	}
 
+public static void onam(){
+	
+}
+
 }

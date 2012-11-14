@@ -21,4 +21,8 @@ public class SkillSet1 {
 public static void newyear(){
 		
 	}
+
+public static void onam(){
+	
+}
 }

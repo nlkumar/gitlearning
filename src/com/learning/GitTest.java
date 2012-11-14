@@ -11,4 +11,8 @@ public class GitTest {
 public static void newyear(){
 		
 	}
+
+public static void onam(){
+	
+}
 }
