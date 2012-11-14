@@ -25,4 +25,8 @@ public static void newyear(){
 public static void onam(){
 	
 }
+
+public static void diwali(){
+	
+}
 }

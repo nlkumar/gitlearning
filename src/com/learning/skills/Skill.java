@@ -25,4 +25,8 @@ public class Skill {
 public static void onam(){
 		
 	}
+
+public static void diwali(){
+	
+}
 }

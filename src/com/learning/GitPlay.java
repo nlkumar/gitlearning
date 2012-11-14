@@ -18,4 +18,8 @@ public static void onam(){
 	
 }
 
+public static void diwali(){
+	
+}
+
 }
